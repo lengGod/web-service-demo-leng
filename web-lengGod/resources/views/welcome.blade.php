@@ -24,8 +24,8 @@ href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
  
 <!-- Main Content --> 
 <div class="container"> 
-<h1 class="text-center mt-5">Welcome to My Laravel App</h1> 
-<p class="text-center">This is the home page with a Bootstrap navbar!</p> 
+<h1 class="text-center mt-5">Welcome to My portfolio site</h1> 
+<p class="text-center">Leng Jeager!</p> 
 </div> 
 <!-- Bootstrap JS --> 
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script> 
