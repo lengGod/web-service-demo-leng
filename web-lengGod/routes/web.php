@@ -31,3 +31,15 @@ Route::get('/portfolio', function () {
 Route::get('/contact', function () { 
     return view('contact'); 
     });
+Route::get('/login', function () { 
+    return view('login'); 
+    });
+Route::get('/register', function () { 
+    return view('register'); 
+    });
+Route::get('/dashboard', function () { 
+    return view('dashboard'); 
+    });
+Route::get('/profile', function () { 
+    return view('profile'); 
+    });
